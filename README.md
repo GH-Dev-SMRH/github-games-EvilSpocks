@@ -2,7 +2,8 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: https://github.com/GH-Dev-SMRH/github-games-EvilSpocks
+You can play the game at: https://gh-dev-smrh.github.io/github-games-EvilSpocks/
+                          
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
